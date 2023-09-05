@@ -13,9 +13,9 @@ Let's see how people feel about Dior's 2023 collection using sentiment analysis 
 from newsapi import NewsApiClient
 import pandas as pd
 
-newsapi = NewsApiClient(api_key='61893268735d44eb8bba386838c552ce')
+newsapi = NewsApiClient(api_key='************')
 
-API_KEY = "61893268735d44eb8bba386838c552ce"
+API_KEY = "****************"
 query = "Christian Dior fall 2023"
 positive_articles = 0
 
